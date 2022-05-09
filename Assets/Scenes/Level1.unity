@@ -48512,6 +48512,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4167607122424374589, guid: dc41be777abe7c64fb7b18413c09d64b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 117967276}
+    - target: {fileID: 4167607122424374589, guid: dc41be777abe7c64fb7b18413c09d64b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Resume
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc41be777abe7c64fb7b18413c09d64b, type: 3}
 --- !u!1001 &4703883663846946249

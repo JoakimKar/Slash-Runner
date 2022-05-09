@@ -280,7 +280,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Trollface
+  m_text: Paused
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 40d425fbe0a861a4c9d209c033ec863b, type: 2}
   m_sharedMaterial: {fileID: 4658611304354893699, guid: 40d425fbe0a861a4c9d209c033ec863b, type: 2}
